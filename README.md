@@ -47,6 +47,11 @@ No need to install these packages individualy
 ### `npm install axios`
 ### `npm install sweetalert`
 
+## Test login credentials
+
+### Email: test@gmail.com
+### Password: test1234
+
 
 
 

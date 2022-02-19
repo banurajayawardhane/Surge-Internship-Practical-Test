@@ -2,7 +2,7 @@
 
 Get a clone of the project to your locan mechine using the follwing command.
 
-### `git clone https://github.com/banurajayawardhane/Surge-test.git`
+### `git clone https://github.com/banurajayawardhane/Surge-Internship-Practical-Test`
 
 ## Installing relevent packages 
 

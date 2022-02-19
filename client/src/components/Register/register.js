@@ -65,7 +65,7 @@ const Register= ({ setAlert, register, isAuthenticated }) =>{
                             {/* {errors.password && <p className="error">{errors.password}</p>} */}
                         </div>
                         <div>
-                            <input className="submit" type="submit" value="Login"/>
+                            <input className="submit" type="submit" value="Register"/>
                         </div>
                         <p className="title-2">
                             Back to <Link className="title-3" to='/'>Login</Link>

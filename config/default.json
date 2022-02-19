@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://banurajayawardhane:banura5456@banura.zu9wq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "surge"
+  }
